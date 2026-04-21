@@ -1,5 +1,9 @@
 ## Hi there 👋
+I'm ✨Adra✨ a Sr SDE with 13+ years of experience in different areas (but mostly Java, Javascript and AWS). 
 
+- 🌱 I’m currently learning AI and its different new nuances.
+- ⚡ Fun fact: I'm passionate about traveling (can you guess where's from my profile picture?)
+  
 <!--
 **ashadra/ashadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
